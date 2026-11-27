@@ -70,8 +70,6 @@ header a:hover {
 .hero-image { 
     min-height: 50vh;
     padding: 2rem;
-
-    max-width: 1453px;
     
     background: linear-gradient(var(--lb) 0%, var(--taupe) 100%);
     
